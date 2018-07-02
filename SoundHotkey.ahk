@@ -7,6 +7,8 @@
 VolStep = 1
 ; Voluem info bar display time(ms).
 VolDisplayTime = 1100
+; Customized Tray Icon.
+Menu, Tray, Icon, icons/SoundHotkeyIcon.png
 
 ; Hotkey to adjust volume.
 Hotkey, #PgUp, MasterVolUp		; Win+PageUp
